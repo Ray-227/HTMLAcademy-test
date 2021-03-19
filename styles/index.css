@@ -4,6 +4,18 @@
   --font-color: rgb(24, 24, 24);
 }
 
+.news-count {
+  position: fixed;
+  right: 1%;
+  bottom: 2%;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 200;
+  background-color: rgb(255, 147, 232);
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+
 .news {
   padding: 2% 4%;
   -webkit-box-shadow: 0px 5px 10px 5px rgba(103, 103, 103, 0.15);
