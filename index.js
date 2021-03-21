@@ -97,6 +97,7 @@ if ( location.pathname.indexOf('/index') !== -1 ) {
         
         if (isState) {
           checkElement.innerHTML = 'Прочитано';
+          checkElement.style.color = '#64ff7e';
         }
       }
 
